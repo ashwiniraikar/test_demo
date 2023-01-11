@@ -1,4 +1,5 @@
 name:Ab
 resisteration no:1456
 sysinfo:145
+position:right
 
